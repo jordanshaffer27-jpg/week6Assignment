@@ -29,7 +29,7 @@ camping, hiking, and outdoor exploration.
 - Delta Junction
 
 ## Live Map
-Add your GitHub Pages URL here.
+https://jordanshaffer27-jpg.github.io/week6Assignment/
 
 ## Author
 Jordan Shaffer
