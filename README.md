@@ -1,8 +1,5 @@
 # Alaska Adventures - Interactive 3D Map
 
-## Week 6 - Assignment 5
-Introduction to Web GIS
-
 ## Project Description
 This project uses the ArcGIS Maps SDK for JavaScript
 to create an interactive 3D map of Alaska.
